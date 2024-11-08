@@ -1,16 +1,15 @@
-## Hi there 👋
+<table style="width:100%">
+  <tr>
+    <th><a href="https://github.com/JmmyLi">
+      <img src="https://github-readme-stats.vercel.app/api?username=JmmyLi&theme=tokyonight&hide_border=true&show_icons=true" />
+    </a></th>
+    <th><a href="https://github.com/JmmyLi">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JmmyLi&theme=tokyonight&hide_border=true&langs_count=10&layout=compact" />
+    </a></th>
+  </tr>
+ </table>
 
-<!--
-**donghaol2024S/donghaol2024S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Hi, I’m Jimmy Li
+-  I’m currently learning cpp, python, java and HTML.
+-  You can reach me via jimmyli114514@gmail.com.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
